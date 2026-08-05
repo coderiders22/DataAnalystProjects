@@ -22,28 +22,6 @@ Machine learning (clustering, regression) only shows up in project 4, where SQL 
 right tool — everywhere else, the aggregation/ranking/filtering logic stays in SQL on purpose,
 since that's the skill most DA portfolios under-demonstrate.
 
-## One-time setup
-```bash
-git clone <this-repo>
-cd data-analysts-projects-101
-
-python -m venv .venv
-source .venv/bin/activate        # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-
-# Kaggle API token (used by every project's download_data.py):
-# 1. Go to https://www.kaggle.com/settings -> API -> Create New Token
-# 2. Save the downloaded kaggle.json to ~/.kaggle/kaggle.json
-```
-
-Then, inside any project folder:
-```bash
-python download_data.py         # pulls that project's dataset via the Kaggle API
-jupyter notebook analysis.ipynb # read the analysis
-streamlit run app.py            # or launch the interactive dashboard
-```
-(Project 5 has one extra ETL step — see its own README.)
-
 ## The 5 projects
 
 | # | Project | Difficulty | Est. time | Best for |
