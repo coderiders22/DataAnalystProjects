@@ -1,4 +1,4 @@
-# Data Analyst Projects 101
+# Data Analyst Projects
 
 Five resume-building data analyst projects, each built on a real Kaggle dataset with a fully
 working, heavily-commented reference implementation — not a starter template with blanks to fill
