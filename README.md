@@ -4,9 +4,6 @@ Five resume-building data analyst projects, each built on a real Kaggle dataset 
 working, heavily-commented reference implementation — not a starter template with blanks to fill
 in. Read the code, run it yourself, and use it as a portfolio piece or interview talking point.
 
-This is free learner content from Uplevel Academy for anyone starting out in data analytics or
-looking for solid projects to add to a resume.
-
 ## How every project is built
 All 5 projects share one architecture, so once you understand one, you understand all of them:
 
