@@ -63,18 +63,3 @@ streamlit run app.py            # or launch the interactive dashboard
 | 3 | [Supply Chain & Inventory Analysis](./03-supply-chain-analysis) | ⭐⭐⭐ Intermediate | 3-4 weeks | Operations focus, supply chain optimization |
 | 4 | [FIFA Player Performance Analysis](./04-fifa-player-analysis) | ⭐⭐⭐⭐ Intermediate-Advanced | 3-4 weeks | Clustering, multivariate analysis, ML intro |
 | 5 | [Olist E-Commerce Dashboard](./05-olist-ecommerce-dashboard) | ⭐⭐⭐⭐ Advanced | 4-6 weeks | Complete DA workflow, capstone / interview showcase |
-
-## Suggested learning path
-**Zomato** (EDA fundamentals) → **Flipkart** (pricing, SQL percentiles/window functions) →
-**Supply Chain** (operations, a differentiator most DA portfolios skip) → **FIFA** (your first
-clustering/ML project) → **Olist** (capstone: multi-table ETL, cohort retention, full dashboard).
-
-Each project's difficulty and time estimate assumes you've completed the ones before it.
-
-## A findings, not just a chart tour
-Every project's README states its *actual* findings, including the ones that complicate a tidy
-narrative — e.g. Zomato's raw price barely predicting rating, the supply-chain dataset's "First
-Class" shipping being the *least* reliable mode, or Olist's ~3% repeat-purchase rate reframing
-"growth" as acquisition-driven rather than retention-driven. That's deliberate: a portfolio project
-that surfaces a real, slightly inconvenient finding and explains it is far more interview-worthy
-than one that just confirms the obvious.
