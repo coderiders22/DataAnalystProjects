@@ -1,8 +1,6 @@
 # Data Analyst Projects
 
-Five resume-building data analyst projects, each built on a real Kaggle dataset with a fully
-working, heavily-commented reference implementation — not a starter template with blanks to fill
-in. Read the code, run it yourself, and use it as a portfolio piece or interview talking point.
+Data analyst projects built on a real Kaggle dataset 
 
 ## How every project is built
 All 5 projects share one architecture, so once you understand one, you understand all of them:
