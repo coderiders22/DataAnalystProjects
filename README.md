@@ -24,7 +24,7 @@ since that's the skill most DA portfolios under-demonstrate.
 
 ## The 5 projects
 
-| # | Project | Difficulty | Est. time | Best for |
+| # | Project | Difficulty | Best for |
 |---|---------|-----------|-----------|---------|
 | 1 | [Zomato Restaurant Analysis](./01-zomato-restaurant-analysis) | Beginner | First portfolio project, EDA fundamentals |
 | 2 | [Flipkart Price Analysis](./02-flipkart-price-analysis) | Intermediate | Pricing strategy, business acumen |
