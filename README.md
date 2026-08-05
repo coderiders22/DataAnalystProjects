@@ -7,11 +7,6 @@ in. Read the code, run it yourself, and use it as a portfolio piece or interview
 This is free learner content from Uplevel Academy for anyone starting out in data analytics or
 looking for solid projects to add to a resume.
 
-## Who this is for
-Anyone learning data analysis who wants to see what a complete, professional-quality project looks
-like end to end — not just a Jupyter notebook with a few `df.groupby()` calls, but SQL, a real
-dataset, a documented analysis with actual findings, and a live interactive dashboard.
-
 ## How every project is built
 All 5 projects share one architecture, so once you understand one, you understand all of them:
 
