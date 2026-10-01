@@ -1,0 +1,7 @@
+pyspark
+delta-spark
+papermill
+boto3
+pandas
+numpy
+jupyterlab
